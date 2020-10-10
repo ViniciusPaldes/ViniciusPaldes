@@ -19,7 +19,6 @@
 ### Abstract
 
 - 👨‍💻 I'm currently working at **CTIS Tecnologia S/A**.
-- 🌱 Learning more about and studying: **NodeJS, DevOps and K8s**.
 
 ### Languages and Tools
 
