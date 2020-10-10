@@ -20,7 +20,6 @@
 
 - 👨‍💻 I'm currently working at **CTIS Tecnologia S/A**.
 - 🌱 Learning more about and studying: **NodeJS, DevOps and K8s**.
-- 💙 Interests: games 👾, cats (Loki 🐱).
 
 ### Languages and Tools
 
