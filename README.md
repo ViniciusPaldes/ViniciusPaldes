@@ -18,7 +18,7 @@
 
 ### Abstract
 
-- 👨‍💻 I'm currently working at **CTIS Tecnologia S/A**.
+- 👨‍💻 I'm currently working at ****.
 
 ### Languages and Tools
 
