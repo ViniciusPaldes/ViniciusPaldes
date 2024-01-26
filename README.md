@@ -1,6 +1,6 @@
 ## Hi there, I'm Vinícius Paldês 
 
-- 👨‍💻 I'm currently working at Standard AI.
+- 👨‍💻 I'm currently looking for a new Job
 
 ### Find me around the web 🌎:
 
