@@ -4,13 +4,7 @@
 
 ### Technologies
 
-- 4 years React-Native
-- 3 years iOS development
-- 6 years React, JS and TS
-- 6 years Android Development
-
-
-
+- React-Native (4y) | iOS (3y) | Android (6y) | React, JS, TS (6y)
 
 ### Portifolio and experiences
 
@@ -18,6 +12,6 @@
 
 ### Before you go 🤚
 
-Please review my Pinned Projects. Four of them are the latest Tech Challenges I've developed, and two of them are personal projects.
+- Please review my Pinned Projects. Four of them are the latest Tech Challenges I've developed, and two of them are personal projects.
 
 👇👇👇
