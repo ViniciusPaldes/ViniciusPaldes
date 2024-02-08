@@ -1,14 +1,16 @@
 ## Hi there, I'm Vinícius Paldês (Vini)
 
-- 👨‍💻 I'm Mobile Developer with 13 years of Working experience
+- 👨‍💻 I'm Mobile Developer with 13 years of Mobile Development experience and 6 years with Web Development
 
 ### Technologies
 
-[![My skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) React since 2017 | React-Native since 2019
+- 4 years React-Native
+- 3 years iOS development
+- 6 years React, JS and TS
+- 6 years Android Development
 
-[![My skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev) iOS development since 2011
 
-[![My skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) Android development since 2012
+
 
 ### Portifolio and experiences
 
