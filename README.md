@@ -10,6 +10,10 @@
 
 - 💼 Check my <a href="https://www.linkedin.com/in/vinicius-paldes/">LinkedIn</a> profile
 
+### Workplace
+
+- Currently working for Onward Health, Inc
+
 ### Before you go 🤚
 
 - Please review my Pinned Projects. Four of them are the latest Tech Challenges I've developed, and two of them are personal projects.
