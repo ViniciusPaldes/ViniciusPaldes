@@ -1,21 +1,19 @@
-## Hi there, I'm Vinícius Paldês (Vini)
+## Hi there, I'm Vinícius Paldês (Vini) 👋
 
-- 👨‍💻 I'm Mobile Developer with 13 years of Mobile Development experience and 6 years with Web Development
+- 👨‍💻 Mobile Developer with **13 years of experience in Mobile** and **8 years in Web Development**.  
+- Passionate about building scalable apps and delivering great user experiences.  
 
-### Technologies
+### 🚀 Technologies  
+- **React Native (6y)** | **React / JS / TS (8y)**  
+- **iOS (3y)** | **Android (6y)**  
 
-- React-Native (4y) | iOS (3y) | Android (6y) | React, JS, TS (6y)
+### 💼 Portfolio & Experience  
+- Explore more on my [LinkedIn profile](https://www.linkedin.com/in/vinicius-paldes/)  
 
-### Portifolio and experiences
+### 🔎 Current Status  
+- Actively looking for a new opportunity — **let’s work together!**  
 
-- 💼 Check my <a href="https://www.linkedin.com/in/vinicius-paldes/">LinkedIn</a> profile
-
-### Workplace
-
-- Currently working for Onward Health, Inc
-
-### Before you go 🤚
-
-- Please review my Pinned Projects. Four of them are the latest Tech Challenges I've developed, and two of them are personal projects.
+### 📌 Before You Go  
+- Don’t forget to check out my **pinned projects** below.  
 
 👇👇👇
