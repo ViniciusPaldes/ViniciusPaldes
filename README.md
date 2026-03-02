@@ -11,7 +11,7 @@
 - Explore more on my [LinkedIn profile](https://www.linkedin.com/in/vinicius-paldes/)  
 
 ### 🔎 Current Status  
-- Actively looking for a new opportunity — **let’s work together!**  
+- Senior React Native Developer at **Symplast**.
 
 ### 📌 Before You Go  
 - Don’t forget to check out my **pinned projects** below.  
