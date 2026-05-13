@@ -1,19 +1,23 @@
-## Hi there, I'm Vinícius Paldês (Vini) 👋
+## Hi, I'm Vinícius Paldês (Vini) 👋
 
-- 👨‍💻 Mobile Developer with **13 years of experience in Mobile** and **8 years in Web Development**.  
-- Passionate about building scalable apps and delivering great user experiences.  
+Senior Mobile Engineer focused on building scalable cross-platform apps with **React Native** and **Expo**.
 
-### 🚀 Technologies  
-- **React Native (6y)** | **React / JS / TS (8y)**  
-- **iOS (3y)** | **Android (6y)**  
+I have **14+ years of experience in mobile development**, with a background in native **iOS**, **Android**, and **React.js**. I enjoy working on mobile architecture, native-to-React Native migrations, OTA delivery, CI/CD pipelines, and reliable production apps.
 
-### 💼 Portfolio & Experience  
-- Explore more on my [LinkedIn profile](https://www.linkedin.com/in/vinicius-paldes/)  
+### 🚀 Focus Areas
 
-### 🔎 Current Status  
-- Senior React Native Developer at **Symplast**.
+- React Native & Expo
+- Cross-platform mobile architecture
+- Native-to-React Native migrations
+- OTA updates and mobile delivery pipelines
+- iOS, Android, React.js, TypeScript
+- AI-assisted engineering workflows
 
-### 📌 Before You Go  
-- Don’t forget to check out my **pinned projects** below.  
+### 💼 Current Role
 
-👇👇👇
+Senior React Native Engineer at **Symplast**, working on patient-facing mobile applications for iOS and Android.
+
+### 🔗 More About Me
+
+- [LinkedIn](https://www.linkedin.com/in/vinicius-paldes/)
+- Check out my pinned projects below 👇
