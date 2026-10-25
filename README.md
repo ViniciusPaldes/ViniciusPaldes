@@ -20,4 +20,5 @@ Senior React Native Engineer at **Symplast**, working on patient-facing mobile a
 ### 🔗 More About Me
 
 - [LinkedIn](https://www.linkedin.com/in/vinicius-paldes/)
+- [My Website](https://viniciuspaldes.vercel.app)
 - Check out my pinned projects below 👇
